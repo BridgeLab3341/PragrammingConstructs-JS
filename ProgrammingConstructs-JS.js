@@ -74,3 +74,10 @@ console.log(pusArray);
 //Array.pop(shift and unshift)
 const popArray=myArray.pop();
 console.log(popArray);
+
+//6. Map
+let myMap=new Map();
+myMap.set(1,"Somu");
+myMap.set(2,"Anil");
+myMap.set(3,"Shekar");
+console.log(myMap);
