@@ -15,3 +15,10 @@ else
 {
     console.log("Not Eligible for Voting");
 }
+
+//3. Functions
+function AddNumbers(a,b){
+    return a+b;
+}
+result=AddNumbers(3,5);
+console.log("Addition of Numbers = "+result);
