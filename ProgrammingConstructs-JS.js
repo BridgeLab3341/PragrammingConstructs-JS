@@ -22,3 +22,17 @@ function AddNumbers(a,b){
 }
 result=AddNumbers(3,5);
 console.log("Addition of Numbers = "+result);
+
+//4. Repetition Statemnt
+let i=1;
+for(i=1; i<=10;i++)
+{
+    console.log(5*i);
+}
+let num=10;
+let k=0;
+while(k<=num)
+{
+    k++;
+    console.log(6*k);
+}
